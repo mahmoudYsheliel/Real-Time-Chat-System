@@ -68,6 +68,7 @@ Supports user authentication, private chats, text and image messaging, and persi
   "message": "Hello",
   "messageType": "text" // or "image"
 }
+```
 
 
 ## How to Run
